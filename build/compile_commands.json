@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/ychen/CodingProgram/C++/opencvexample/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/OPENCVEXAMPLE.dir/includes_CXX.rsp -g -o CMakeFiles\\OPENCVEXAMPLE.dir\\main.cpp.obj -c C:\\Users\\ychen\\CodingProgram\\C++\\opencvexample\\main.cpp",
+  "file": "C:/Users/ychen/CodingProgram/C++/opencvexample/main.cpp",
+  "output": "CMakeFiles/OPENCVEXAMPLE.dir/main.cpp.obj"
+}
+]
